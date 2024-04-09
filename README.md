@@ -11,3 +11,9 @@ In-person sessions
 ## Schedule
 - Exercise 01 - 23 April, 2024
 - Exercise 02 - 30 April, 2024
+
+## Exercises
+
+| Exercise | Solution |
+|:--------:|:--------:|
+|[Exercise 1](#) | [Solution 1](#)|
