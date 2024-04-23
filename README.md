@@ -11,10 +11,11 @@ In-person sessions
 ## Schedule
 - Exercise 01 - 23 April, 2024
 - Exercise 02 - 30 April, 2024
+- Exercise 03 - 07 May, 2024
 
 ## Exercises
 
 | Exercise | Solution |
 |:--------:|:--------:|
 |[Exercise 1](https://tibhannover.github.io/luh-kesw-2024/Exercises/Exercise01.pdf) | [Solution 1](https://tibhannover.github.io/luh-kesw-2024/Exercises/Solutions01.pdf)|
-|[Exercise 1](https://tibhannover.github.io/luh-kesw-2024/Exercises/Exercise02.pdf) | [Solution 1](#)|
+|[Exercise 2](https://tibhannover.github.io/luh-kesw-2024/Exercises/Exercise02.pdf) | [Solution 2](#)|
