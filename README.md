@@ -16,4 +16,5 @@ In-person sessions
 
 | Exercise | Solution |
 |:--------:|:--------:|
-|[Exercise 1](https://tibhannover.github.io/luh-kesw-2024/Exercises/Exercise01.pdf) | [Solution 1](#)|
+|[Exercise 1](https://tibhannover.github.io/luh-kesw-2024/Exercises/Exercise01.pdf) | [Solution 1](https://tibhannover.github.io/luh-kesw-2024/Exercises/Solutions01.pdf)|
+|[Exercise 1](https://tibhannover.github.io/luh-kesw-2024/Exercises/Exercise02.pdf) | [Solution 1](#)|
